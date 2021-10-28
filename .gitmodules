@@ -1,0 +1,4 @@
+[submodule "RepoA1"]
+	path = RepoA1
+	url = https://github.com/Home-Pte-Ltd/RepoA1.git
+	branch = master
